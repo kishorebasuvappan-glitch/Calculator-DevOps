@@ -5,7 +5,7 @@ pipeline {
         DOCKER_IMAGE = 'kishorebasuvappan/calculator'
         IMAGE_TAG = 'v2.0'
 
-        AZURE_TENANT_ID = '35501cb3-d5d0-475b-a5c5-69f6e8f5e62f'
+        AZURE_TENANT_ID = '90a62c66-9769-4ec5-aec0-5ddfb0aaee6c'
         AZURE_SUBSCRIPTION_ID = 'fcb39d30-fdd6-41a0-98f2-2c267c93c163'
         AKS_RESOURCE_GROUP = 'NetworkWatcherRG'
         AKS_CLUSTER_NAME = 'demo'
